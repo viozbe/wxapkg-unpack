@@ -1,0 +1,12 @@
+{
+  "updateTime": "2021.7.21 10:19:55",
+  "version": "2.18.1",
+  "features": {
+    "pruneWxConfigByPage": true,
+    "injectGameContextPlugin": true,
+    "lazyCodeLoading2": true,
+    "injectAppSeparatedPlugin": true,
+    "nativeTrans": true,
+    "gameLive": true
+  }
+}
